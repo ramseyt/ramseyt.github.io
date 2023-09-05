@@ -4,27 +4,25 @@ title: Home
 ---
 
 
-Welcome!
+#### Welcome!
 
 Read on:
 
-[Tech](/tech)
-[Music](/music)
-[Contact](/contact)
+[Tech](/tech)<br>
+[Music](/music)<br>
+[Contact](/contact)<br>
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+Usual suspects:
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+[LinkedIn](http://www.linkedin.com/in/rtantawi)<br>
+[Twitter](http://twitter.com/oscillations)<br>
+[Instagram](https://instagram.com/rtantawi/)<br>
+[Facebook](https://www.facebook.com/ramsey)<br>
 
-**Stop worrying about the style, focus on your writing.**
+No-so-usual suspects:
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
-
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+[Concord Ballet Orchestra Players](https://cbop.bandcamp.com/) - I used to play in a band<br>
+[Recording equipment reviews](http://www.tapeop.com/reviews/gear/by/ramsey-tantawi) - Once upon a time I wrote gear reviews for the fantastic recording magazine Tape Op<br>
+[Discogs](http://www.discogs.com/artist/Ramsey+Tantawi)<br>
+[AllMusic](http://www.allmusic.com/artist/ramsey-tantawi-p887068/credits)<br>
+[IMDB](http://www.imdb.com/name/nm3695352/)<br>
