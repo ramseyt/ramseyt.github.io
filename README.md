@@ -1,2 +1,0 @@
-# ramseyt.github.io
-Website
