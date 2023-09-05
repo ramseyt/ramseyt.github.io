@@ -1,10 +1,16 @@
 ---
 layout: default
-title: Hello
+title: Home
 ---
 
 
-## An easy to use, minimal, text focused Jekyll theme
+Welcome!
+
+Read on:
+
+[Tech](/tech)
+[Music](/music)
+[Contact](/contact)
 
 [Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
 
