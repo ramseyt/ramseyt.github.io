@@ -7,6 +7,7 @@ tags:
 - news
 
 ---
+<br>
 
 I've had a personal website of some form since the year 2000. The contents have varied but in recent years it's been a few simple pages with a way for people to contact me. It's important to me that friends old and new have an easy way to get in touch and this website has certainly helped with that over the years.
 

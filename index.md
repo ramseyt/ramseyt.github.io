@@ -5,7 +5,6 @@ title: Home
 <br>
 
 ### Welcome!
-<br>
 
 **Read on:**
 
