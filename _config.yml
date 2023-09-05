@@ -114,3 +114,8 @@ links:
   Tech: /tech
   Music: /music
   Contact: /contact
+
+# Add links for more focus here
+special_links:
+  "Testing": https://cnn.com
+  "Three": https://nytimes.com
