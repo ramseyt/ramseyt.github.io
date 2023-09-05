@@ -31,7 +31,8 @@ github_username: ramseyt
 
 # Build settings
 # theme: minima
-remote_theme: jekyll-bear-theme
+theme: jekyll-bear-theme
+#remote_theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
 
