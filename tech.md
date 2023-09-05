@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Tech
 description: Technology!
 permalink: /tech
