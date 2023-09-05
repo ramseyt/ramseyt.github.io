@@ -110,12 +110,12 @@ exclude: [vendor]
 Blog: /blog
 
 # Add general links to site pages here
-links:
+links2:
   Tech: /tech
   Music: /music
   Contact: /contact
 
 # Add links for more focus here
-special_links:
+special_links2:
   "Testing": https://cnn.com
   "Three": https://nytimes.com

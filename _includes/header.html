@@ -3,8 +3,12 @@
     <a href="{{ site.url }}">Home</a> 
     <a href="{{ site.url }}{{ site.Blog }}">Blog</a>
 
-    {% for link in site.links %}
+    {% for link in site.links2 %}
         <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
+    {% endfor %}
+
+    {% for link in site.special_links2 %}
+            <a href="{{ link[1] }}">[{{ link[0] }}]</a>
     {% endfor %}
 
 </nav>
