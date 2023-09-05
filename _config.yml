@@ -23,9 +23,9 @@ email: contact@tantawi.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ramsey Tantawi's home on the web. Around in some form or another for...
   a long time.
-domain: ramsey.tantawi.com
+domain: ramseyt.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://ramsey.tantawi.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://ramseyt.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: ramseyt
 
