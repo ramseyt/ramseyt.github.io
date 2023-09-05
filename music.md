@@ -4,6 +4,7 @@ title: Music
 description: Music
 permalink: /music
 ---
+<br>
 
 Recording and playing music have been hobbies of mine for many years.
 

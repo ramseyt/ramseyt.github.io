@@ -4,7 +4,7 @@ title: Tech
 description: Technology!
 permalink: /tech
 ---
-
+<br>
 
 My first computer was a [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64), my current one is a [M2 MacBook Air](https://www.apple.com/macbook-air-13-and-15-m2/), and I’ve worked in computer and technology-related positions my entire career.
 

@@ -2,13 +2,14 @@
 layout: default
 title: Home
 ---
-
+<br>
 
 ### Welcome!
 <br>
 
 **Read on:**
 
+[Blog](/blog)<br>
 [Tech](/tech)<br>
 [Music](/music)<br>
 [Contact](/contact)<br>
