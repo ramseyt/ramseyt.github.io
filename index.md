@@ -6,28 +6,28 @@ title: Home
 
 ### Welcome!
 
-**Read on:**
+Read on:
 
-[Blog](/blog)<br>
-[Tech](/tech)<br>
-[Music](/music)<br>
-[Contact](/contact)<br>
+* [Blog](/blog)
+* [Tech](/tech)
+* [Music](/music)
+* [Contact](/contact)
 <br>
 <br>
 
-**Usual suspects:**
+Usual suspects:
 
-[LinkedIn](http://www.linkedin.com/in/rtantawi)<br>
-[Twitter](http://twitter.com/oscillations)<br>
-[Instagram](https://instagram.com/rtantawi/)<br>
-[Facebook](https://www.facebook.com/ramsey)<br>
+* [LinkedIn](http://www.linkedin.com/in/rtantawi)
+* [Twitter](http://twitter.com/oscillations)<br>
+* [Instagram](https://instagram.com/rtantawi/)<br>
+* [Facebook](https://www.facebook.com/ramsey)<br>
 <br>
 <br>
 
-**No-so-usual suspects:**
+No-so-usual suspects:
 
-[Concord Ballet Orchestra Players](https://cbop.bandcamp.com/) - I used to play in a band<br>
-[Recording equipment reviews](http://www.tapeop.com/reviews/gear/by/ramsey-tantawi) - Once upon a time I wrote gear reviews for the fantastic recording magazine Tape Op<br>
-[Discogs](http://www.discogs.com/artist/Ramsey+Tantawi)<br>
-[AllMusic](http://www.allmusic.com/artist/ramsey-tantawi-p887068/credits)<br>
-[IMDB](http://www.imdb.com/name/nm3695352/)<br>
+* [Concord Ballet Orchestra Players](https://cbop.bandcamp.com/) - I used to play in a band<br>
+* [Recording equipment reviews](http://www.tapeop.com/reviews/gear/by/ramsey-tantawi) - Once upon a time I wrote gear reviews for the fantastic recording magazine Tape Op<br>
+* [Discogs](http://www.discogs.com/artist/Ramsey+Tantawi)<br>
+* [AllMusic](http://www.allmusic.com/artist/ramsey-tantawi-p887068/credits)<br>
+* [IMDB](http://www.imdb.com/name/nm3695352/)<br>
