@@ -19,6 +19,7 @@ Usual suspects:
 
 * [LinkedIn](http://www.linkedin.com/in/rtantawi)
 * [GitHub](https://github.com/ramseyt/)
+* [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Tantawi,+Ramsey)
 * [Twitter](http://twitter.com/oscillations)<br>
 * [Instagram](https://instagram.com/rtantawi/)<br>
 * [Facebook](https://www.facebook.com/ramsey)<br>
