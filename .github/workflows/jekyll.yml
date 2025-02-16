@@ -53,7 +53,7 @@ jobs:
         id: deployment
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-           path: build_outputs_folder/
+           path: _site/
 
   # Deployment job
   deploy:
