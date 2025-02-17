@@ -3,18 +3,6 @@ layout: default
 title: Home
 ---
 <br>
-
-### Welcome!
-
-Read on:
-
-* [Blog](/blog)
-* [Tech](/tech)
-* [Music](/music)
-* [Contact](/contact)
-<br>
-<br>
-
 Usual suspects:
 
 * [LinkedIn](http://www.linkedin.com/in/rtantawi)
